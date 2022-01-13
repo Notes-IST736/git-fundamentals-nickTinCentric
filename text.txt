@@ -1,0 +1,11 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 9EF5-3A92
+
+ Directory of c:\repos\gittut
+
+01/12/2022  06:54 PM    <DIR>          .
+01/12/2022  06:42 PM    <DIR>          ..
+01/12/2022  06:42 PM    <DIR>          git-fundamentals-nickTinCentric
+01/12/2022  06:54 PM                 0 text.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  267,668,774,912 bytes free
